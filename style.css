@@ -1,0 +1,86 @@
+.lists {
+
+    color: #00A5EC;
+    font: normal normal bold 40px/49px Inter;
+}
+
+.Tasks {
+    color: #424242;
+}
+
+.icons {
+    font-size: 30px;
+    position: relative;
+    color: #00A5EC;
+    top: 5px;
+    left: 960px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.Add {
+    margin-left: 950px;
+    margin-right: 200px;
+    font-size: 18px;
+    width: 150px; 
+    height: 26px;
+    color: #424242;
+     
+}
+
+.container {
+
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-around;
+      padding: 20px;
+}
+
+.child1 {
+    width: 352px;
+    height: 360px;
+    top: 220px;
+    left: 139px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    opacity: 1;
+    color: #00A5EC;
+   
+    
+}
+
+.child_1 {
+    color: #C2C2C2;
+    text-decoration: line-through;
+}
+
+.child_2 {
+    color: #424242;
+
+ }
+
+.second_no {
+    top: 184px;
+    left: 433px;
+    width: 500px;
+    height: 250px;    
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 20px #67676729;
+    border: 1px solid #EDEDED;
+    border-radius: 10px; 
+    padding: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    opacity: 1;
+  
+     
+ }
+
+.Trip {
+     color: #00A5EC;
+  }
+ 

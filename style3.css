@@ -1,0 +1,91 @@
+.lists {
+
+    color: #00A5EC;
+    font: normal normal bold 40px/49px Inter;
+}
+
+.Tasks {
+    color: #424242;
+}
+
+
+.icons {
+   
+    color: #00A5EC;
+    margin-left: 900px;
+    /* float: right; */
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.Add {
+    margin-left: -170px; 
+    font-size: 15px;
+    width: 100px; 
+    height: 40px;
+    color: #424242;
+
+     
+}
+
+.icons_ {
+    width: 35px;
+    height: 35px;
+    margin-left: -650px;
+    margin-bottom: -10px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.Back {
+    width: 46px;
+    height: 24px;
+    margin-left: 40px;
+    position: absolute;
+    color: #424242;
+    /* top: -20px;
+    bottom: 10px; */
+    left: 300px;
+    right: 20px;
+    /* margin-top: 10px;
+    margin-bottom: 20px; */
+    font-size: 15px;
+  
+}
+
+.container {
+    /* width: 1366px;
+    height: 1368px; */
+    /* display: flex; */
+    /* justify-content: space-around; */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 20px;
+    border: 2px solid #F7F7F7;
+}
+
+.child1 {
+  width: 352px;
+  height: 360px;
+  top: 220px;
+  left: 139px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #EDEDED;
+  border-radius: 10px;
+  opacity: 1;
+  color: #00A5EC;
+  border: 2px solid #EDEDED;
+  /* margin-left: 250px;
+  margin-right: -250px; */
+  
+}
+
+.child_1 {
+  color: #C2C2C2;
+  text-decoration: line-through;
+}
+.child_2 {
+  color: #424242;
+}
